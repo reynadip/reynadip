@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sidharth
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on projects related to web development
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on projects related to AMchine learning
 
 <!---
 reynadip/reynadip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
